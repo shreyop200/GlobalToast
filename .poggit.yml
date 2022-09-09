@@ -5,4 +5,5 @@ branches:
 projects:
   GlobalToast:
     path: ""
+    icon: "logo.png"
 ...
