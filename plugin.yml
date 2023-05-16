@@ -9,3 +9,6 @@ permissions:
   globaltoast.cmd:
     description: Broadcast toast announcements to everyone in the server!
     default: op
+  globaltoast.use:
+    default: op
+    description: Get Access to Use the {player} Variable!
